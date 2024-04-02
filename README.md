@@ -16,7 +16,7 @@
 </ul>
 
 <p><strong>Introduction to Spring Boot</strong></p>
-<p>Spring Boot is a powerful framework that simplifies the development of Java applications by providing a convention-over-configuration approach. It eliminates the need for boilerplate code and allows developers to focus on building robust applications with minimal setup. With Spring Boot, you can quickly create standalone, production-ready Spring-based applications.</p>
+<p>Spring Boot is a powerful framework that simplifies the development of Java applications by providing a convention-over-configuration approach. It eliminates the need for boilerplate code (code that are repeated in multiple places with little to no variation). It allows developers to focus on building robust applications with minimal setup. With Spring Boot, you can quickly create standalone, production-ready Spring-based applications.</p>
 
 <p><strong>Prerequisites</strong></p>
 <p>Before getting started with Spring Boot, ensure you have the following prerequisites:</p>
